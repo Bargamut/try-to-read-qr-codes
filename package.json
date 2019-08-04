@@ -7,5 +7,10 @@
   "license": "MIT",
   "dependencies": {
     "jsqr": "^1.2.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5"
   }
 }
