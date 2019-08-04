@@ -1,0 +1,8 @@
+{
+  "name": "try-js-qrcode-reader",
+  "version": "1.0.0",
+  "description": "Изучение возможности считывания QR-кодов на клиенте",
+  "main": "index.js",
+  "author": "Paul Petrov <paul@bargamut.ru>",
+  "license": "MIT"
+}
