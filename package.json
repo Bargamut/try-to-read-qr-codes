@@ -4,5 +4,8 @@
   "description": "Изучение возможности считывания QR-кодов на клиенте",
   "main": "index.js",
   "author": "Paul Petrov <paul@bargamut.ru>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jsqr": "^1.2.0"
+  }
 }
